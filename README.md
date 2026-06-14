@@ -1,0 +1,1 @@
+Built and trained neural network architectures (CNNs/RNNs) to solve a classification or prediction task, implementing forward/backpropagation from scratch and tuning hyperparameters to optimize model performance
